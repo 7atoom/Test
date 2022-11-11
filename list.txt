@@ -7,6 +7,10 @@ vegetable
 
 
 meats 
+lamp
+cow
+sheep
+beef
 
 
 dairy
